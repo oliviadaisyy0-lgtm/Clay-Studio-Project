@@ -1,1 +1,2 @@
-# Clay-Studio-Project
+## Project Title
+Clay Studio
