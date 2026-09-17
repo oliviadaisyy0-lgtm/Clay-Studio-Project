@@ -12,6 +12,7 @@ Encourage more people enjoy, learn handmade activities, decorate home, make cups
 
 ## Website Goals and Objectives
 The main goals of the website are:
+
 •	Create online platform for clay and pottery lovers to upload photos of their work
 
 •	Allows handmade artists to promote and sell their work  
@@ -22,18 +23,31 @@ The main goals of the website are:
 
 ## Key Features and Functionality
 The website will include:
+
 •	Homepage: introduction to clay studio 
-•	About us: share clay studio story  
-•	Contract page: contract number, studio location  
-•	Frame: Upload photos, video, liked photo, video, comments, saves, favorite 
+
+•	About us: share clay studio story
+
+•	Contract page: contract number, studio location 
+
+•	Frame: Upload photos, video, liked photo, video, comments, saves, favorite
+
 •	Search 
+
 •	Shop 
+
 •	Enquiry page  
+
 •	Buys now/order now 
+
 •	Customers’ orders 
-•	About the artists 
+
+•	About the artists
+
 •	Featured artists 
+
 •	Clay and pottery feed 
+
 •	Categories (bowls, cups, vases, keychains, necklace, rings, plates,) 
 
 ## Part 1 Details
@@ -42,11 +56,17 @@ The chosen organisation is The Clay Studio, an organisation focused on ceramic a
 
 ## Changelog
 Add HTML content.
+
 Add CSS styling.
+
 Add images and visual content.
+
 Add JavaScript functionality.
+
 Improve responsive design.
+
 Test website navigation and forms.
+
 Fix errors and improve user experience.
 
 ## References
