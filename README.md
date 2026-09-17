@@ -12,9 +12,12 @@ Encourage more people enjoy, learn handmade activities, decorate home, make cups
 
 ## Website Goals and Objectives
 The main goals of the website are:
-•	Create online platform for clay and pottery lovers to upload photos of their work 
+•	Create online platform for clay and pottery lovers to upload photos of their work
+
 •	Allows handmade artists to promote and sell their work  
+
 •	Users can upload their aesthetic and cute ideas 
+
 •	Encourage other people more into handmade clay activity and take classes  
 
 ## Key Features and Functionality
