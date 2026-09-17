@@ -71,7 +71,11 @@ Fix errors and improve user experience.
 
 ## References
 Schwatz,B.,2016. Top Pottery Blogs of 2015. Pottery Making Info. Available at: https://potterymakinginfo.com/news/top-pottery-blogs-of-2015/ [Accessed 13 August 2026]
+
 Schwatz,B.,2018. 033 Pottery Goals- MudTalk Podcast. Expert Clay. Available at: https://expertclay.com/podcast/pottery-goals/  [Accessed 13 August 2026]
+
 North Carolina Clay Club,2015. North Carolina Clay Club. Blog. Available at: https://ncclayclub.blogspot.com/ [Accessed 13 August 2026]
+
 Canva,2026. Color Palette Generator. Available at: https://www.canva.com/colors/color-palette-generator/ [Accessed 13 August 2026]
+
 Female Alchemy, 2026. Female Alchemy: Ceramic pieces, merch, & stickers. Available at: https://www.femalealchemy.com/ [Accessed 12 August 2026]
