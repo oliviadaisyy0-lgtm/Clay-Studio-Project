@@ -3,7 +3,9 @@ Clay Studio
 
 ## Student Information
 Student Name: Asukia Ebuta
+
 Module Name: WEDE5020 
+
 Lecturer: Mr Lwazi
 
 ## Project Overview
@@ -24,50 +26,83 @@ The main goals of the website are:
 ## Key Features and Functionality
 The website will include:
 
-•	Homepage: introduction to clay studio 
+Homepage — hero introduction, featured pottery images, and a categorized "Explore More Clay" section linking into the Shop.
 
-•	About us: share clay studio story
+Shop — product listings grouped into four categories (Cute Clay, Cups, Necklaces, Vases), each with images, names, and prices.
 
-•	Contract page: contract number, studio location 
+About — the studio's founding story (2015–2017) and photos of the making process.
 
-•	Frame: Upload photos, video, liked photo, video, comments, saves, favorite
+Enquiry — a form for visitors to enquire about a product, a custom commission, or booking a class.
 
-•	Search 
+Contact — two studio locations, opening hours, and a general contact form.
 
-•	Shop 
+Sell — a page allowing other clay artists to submit a piece (photo, title, price) for potential listing in the shop.
 
-•	Enquiry page  
+Consistent navigation, including a "Shop" dropdown linking directly to each product category.
 
-•	Buys now/order now 
+## Technical Requirements
+Languages: HTML5, CSS3 (no JavaScript used at this stage of the project).
 
-•	Customers’ orders 
+Structure: All pages share a single external stylesheet (css/style.css) for consistent styling.
 
-•	About the artists
-
-•	Featured artists 
-
-•	Clay and pottery feed 
-
-•	Categories (bowls, cups, vases, keychains, necklace, rings, plates,) 
+Hosting (planned): Static hosting with a custom domain
 
 ## Part 1 Details
 Part 1 focused on understanding the chosen organisation, its users and their needs.
 The chosen organisation is The Clay Studio, an organisation focused on ceramic arts, education and community engagement.
 
+Part 1 delivered the initial 5 required pages (Home, Shop/Products, About, Enquiry, Contact) as static HTML files styled with a single external CSS file, along with an initial GitHub commit of the project structure.
+
+## Sitemap
+Home (index.html)
+├── Shop (products.html)
+│   ├── Cute Clay (#cute-clay)
+│   ├── Cups (#cups)
+│   ├── Necklaces (#necklaces)
+│   └── Vases (#vases)
+├── About (about.html)
+├── Sell (sell.html)
+├── Enquiry (enquiry.html)
+└── Contact (contact.html)
+
+## File and Folder Structure
+clay-studio/
+├── index.html
+├── about.html
+├── products.html
+├── contact.html
+├── enquiry.html
+├── sell.html
+├── css/
+│   └── style.css
+└── images/
+
 ## Changelog
-Add HTML content.
+Part 1
 
-Add CSS styling.
+Initial project structure created.
 
-Add images and visual content.
+Built 5 core pages: Home, Shop, About, Enquiry, Contact.
 
-Add JavaScript functionality.
+Created shared stylesheet with site-wide color variables.
 
-Improve responsive design.
+Added working navigation with a Shop dropdown linking to product categories.
 
-Test website navigation and forms.
+Part 2 
 
-Fix errors and improve user experience.
+Added a new Sell page allowing clay artists to submit items with a photo, title, and price.
+
+Redesigned Sell page layout to a centered, single-column form.
+
+Updated navigation: replaced account/cart icons with a functional search link and a "Sell" link.
+
+Enlarged and restyled homepage and shop product images for better visual presentation.
+
+Added hover/press animation effects to product images (pure CSS, no JavaScript).
+
+Updated About page to include two images and a newsletter signup section.
+
+Fixed folder structure issues (CSS/HTML path corrections).
 
 ## References
 Schwatz,B.,2016. Top Pottery Blogs of 2015. Pottery Making Info. Available at: https://potterymakinginfo.com/news/top-pottery-blogs-of-2015/ [Accessed 13 August 2026]
