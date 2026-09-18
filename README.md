@@ -67,14 +67,23 @@ Home (index.html)
 
 ## File and Folder Structure
 clay-studio/
+
 ├── index.html
+
 ├── about.html
+
 ├── products.html
+
 ├── contact.html
+
 ├── enquiry.html
+
 ├── sell.html
+
 ├── css/
+
 │   └── style.css
+
 └── images/
 
 ## Changelog
