@@ -53,18 +53,6 @@ The chosen organisation is The Clay Studio, an organisation focused on ceramic a
 
 Part 1 delivered the initial 5 required pages (Home, Shop/Products, About, Enquiry, Contact) as static HTML files styled with a single external CSS file, along with an initial GitHub commit of the project structure.
 
-## Sitemap
-Home (index.html)
-├── Shop (products.html)
-│   ├── Cute Clay (#cute-clay)
-│   ├── Cups (#cups)
-│   ├── Necklaces (#necklaces)
-│   └── Vases (#vases)
-├── About (about.html)
-├── Sell (sell.html)
-├── Enquiry (enquiry.html)
-└── Contact (contact.html)
-
 ## File and Folder Structure
 clay-studio/
 
